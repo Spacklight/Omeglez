@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Omegle</string>
+    <string name="permission_title">Live Video, Audio &amp; Text Chat</string>
+    <string name="permission_subtitle">Allow camera and microphone access to connect face-to-face, or continue with text-only chat.</string>
+    <string name="grant_permissions">Enable Camera &amp; Mic</string>
+    <string name="continue_text_only">Continue with Text Only</string>
+    <string name="open_settings">Open App Settings</string>
+    <string name="reload_page">Reload</string>
+    <string name="connection_error_title">Unable to connect</string>
+    <string name="connection_error_subtitle">Please check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="camera_mic_active">Camera &amp; Mic Ready</string>
+    <string name="text_only_mode">Text-Only Mode</string>
+</resources>
